@@ -1,0 +1,38 @@
+.text_red{
+    color: #ffc800
+    
+    
+}
+.logoColor{
+    color: #fff;
+    font-weight: 700;
+}
+.bg{
+    background-color: rgb(2, 2, 22);
+}
+#navbarNav ul li a{
+    color:rgb(232, 238, 255)
+}
+.resiBtn{
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.logBtn{
+    background-color: #ffc800;
+    border: none;
+    border-radius: 5px;
+    margin: 0 15px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.logBtn:hover{
+    background-color: #fff;
+    color: #186711c2;;
+}
+.max-width {
+   width: 100%;
+    height: auto;
+    display: inline-block;
+}
+ 
