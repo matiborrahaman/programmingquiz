@@ -1,17 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
 .text_red{
     color: #ffc800
     
     
 }
-
- 
-.logoColor{
-    color: #fff;
-    font-weight: 700;
-}
 .bg{
-    background-color: rgb(2, 2, 22);
+    background-color: rgb(22, 1, 90);
 }
+ 
+ .logosize{
+     width: 70px;
+     height: 100%;
+ }
+ .hlwpm{
+     color: #fff;
+     font-family:Dancing Script;
+     font-size: 24px;
+ }
+
 #navbarNav ul li a{
     color:rgb(232, 238, 255)
 }
@@ -41,9 +48,9 @@
     display: inline-block;
 }
  .details_img img{
-     margin-top: 70px;
+     margin-top: 100px;
      width: 700px;
-     height: 550px;
+     height: 450px;
     
  }
  #details{
@@ -56,11 +63,12 @@
  hr{
    
     height: 6px;
-    background-color:  rgb(252, 255, 70)
+    background-color: rgb(12, 0, 88);
+   
    
 }
  .details_text h1{
-     color:rgb(252, 255, 70)
+     color:#fff;
  }
  .details_text h4{
     color:rgb(255, 255, 255)
@@ -68,6 +76,18 @@
  .details_text p{
      color:rgb(202, 202, 216)
  }
- #quizsubjectBg{
-     background-color: rgb(248, 248, 248);
+ .logInfrm{
+     border:1px solid rgb(12, 0, 88);
+     border-radius: 10px;
+ }
+ .afhr{
+     width: 300px;
+    background-color: rgb(12, 0, 88);
+ }
+ .logInfrm h1{
+     color: rgb(12, 0, 88);
+ }
+ .btn{
+        background-color: rgb(12, 0, 88);
+        color: #fff;
  }
